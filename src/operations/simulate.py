@@ -1,0 +1,1 @@
+"""trained model로 trading을 했을 경우 손익 계산"""
